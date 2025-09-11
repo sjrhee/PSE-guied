@@ -10,7 +10,8 @@ cd 610-009981-032\_SW\_PTK\_7.3.1\_Client\_RevA/SDKs/Linux64/
 
 1. PTK 설치파일 실행
 
-[root@localhost Linux64]# ./safeNet-install.sh![](Aspose.Words.fbc784eb-beca-442f-9864-8296860276ae.001.png)
+[root@localhost Linux64]# ./safeNet-install.sh
+![](Aspose.Words.fbc784eb-beca-442f-9864-8296860276ae.001.png)
 
 Y를 눌러서 install 실행
 
