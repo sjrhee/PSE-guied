@@ -25,9 +25,9 @@ Y를 눌러서 install 실행
 
 1. 프로그램 다운로드 순서는 4번(HSM Access Provider), 6번,7번,8번,9번 순서로 설치
 1. 설치 후 b를 눌러 뒤로 나오기\
-   ![텍스트, 스크린샷, 소프트웨어, 디스플레이이(가) 표시된 사진
+   ![
 
-AI 생성 콘텐츠는 정확하지 않을 수 있습니다.](Aspose.Words.fbc784eb-beca-442f-9864-8296860276ae.004.png)\
+](Aspose.Words.fbc784eb-beca-442f-9864-8296860276ae.004.png)\
    (뒤로 나온 후 화면)
 1. 설정창 5번 선택 후 Cryptoki Provider 설정 확![](Aspose.Words.fbc784eb-beca-442f-9864-8296860276ae.005.png)
 
