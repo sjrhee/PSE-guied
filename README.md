@@ -48,6 +48,7 @@ source /opt/safenet/protecttoolkit7/cpsdk/setvars.sh
 /etc/default 디렉터리로 이동하여 `et_hsm` 파일에 PSE 장비의 IP를 입력합니다.
 
 ![et_hsm 설정](images/Aspose.Words.fbc784eb-beca-442f-9864-8296860276ae.007.png)
+
 ![et_hsm 편집 예](images/Aspose.Words.fbc784eb-beca-442f-9864-8296860276ae.008.png)
 
 `ctconf -v` 로 정상 호출 확인:
