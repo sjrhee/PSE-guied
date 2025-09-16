@@ -52,6 +52,7 @@ source /opt/safenet/protecttoolkit7/cpsdk/setvars.sh
 ![et_hsm 편집 예](images/Aspose.Words.fbc784eb-beca-442f-9864-8296860276ae.008.png)
 
 `ctconf -v` 로 정상 호출 확인:
+
 ![ctconf 확인](images/Aspose.Words.fbc784eb-beca-442f-9864-8296860276ae.009.png)
 
 ## 5. 슬롯 초기화 및 키 관리
