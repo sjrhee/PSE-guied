@@ -55,6 +55,7 @@ source /opt/safenet/protecttoolkit7/cpsdk/setvars.sh
 
 ## 5. 슬롯 초기화 및 키 관리
 `gctadmin` 실행 후 슬롯 초기화를 진행합니다.
+
 ![gctadmin](images/Aspose.Words.fbc784eb-beca-442f-9864-8296860276ae.010.png)
 
 슬롯 초기화 예:
@@ -62,11 +63,13 @@ source /opt/safenet/protecttoolkit7/cpsdk/setvars.sh
 ctkmu t -s <슬롯넘버> -l <label>
 ```
 초기화 전후 객체 조회 예:
+
 ![초기화 전 객체 조회](images/Aspose.Words.fbc784eb-beca-442f-9864-8296860276ae.011.png)
 ![초기화 후 객체 조회](images/Aspose.Words.fbc784eb-beca-442f-9864-8296860276ae.012.png)
 
 ### 키 생성
 kmu 또는 ctkmu 명령으로 키를 생성합니다.
+
 ![kmu 예](images/Aspose.Words.fbc784eb-beca-442f-9864-8296860276ae.013.png)
 
 ctkmu 예:
